@@ -11,4 +11,11 @@ Then the Inventory is self explanatory
 280 A1src/ Account & AccountTest 
 Simple program for atm machine, deposit and withdraw money from accounts 
 
+guessgame/ 
+GUI game of guessing a random number between 1-1000. 
+When the player presses re-try a different number is generated and they must guess again
+
+que4/ 
+GUI interest calculator 
+
 More Java or C++ Object orientated work will be uploaded soon! 
