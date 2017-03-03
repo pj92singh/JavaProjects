@@ -19,3 +19,10 @@ que4/
 GUI interest calculator 
 
 More Java or C++ Object orientated work will be uploaded soon! 
+
+graph/CompleteGraph.java
+Drawing a completed graph with the option of up to 5 vertices
+
+que2/Circ1.java
+Draw an oval with a randomly genereated radius & show the fowlling:
+radius, diameter, circumference and area
