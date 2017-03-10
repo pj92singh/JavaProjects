@@ -41,4 +41,4 @@ Draw an oval with a randomly genereated radius & show the fowlling:
 radius, diameter, circumference and area
 
 --------------------------------------------
-More Java or C++ Object orientated work will be uploaded soon! 
+More Java or GUI/Javafx Object orientated work will be uploaded soon! 
