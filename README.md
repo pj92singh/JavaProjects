@@ -9,17 +9,21 @@ The "stuff" class is what the program does to "scan" in the  customers items.
 Then the Inventory is self explanatory 
 
 
+
+
+
+--------------------------------------------
 Calc
 Runnable JAR calculator
 Also has the code upladed with it and a screenshot 
 
 
-
+--------------------------------------------
 280 A1src/ Account & AccountTest 
 Simple program for atm machine, deposit and withdraw money from accounts 
 
 
-
+--------------------------------------------
 guessgame/ 
 GUI game of guessing a random number between 1-1000. 
 When the player presses re-try a different number is generated and they must guess again
