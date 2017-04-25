@@ -21,33 +21,33 @@ Calc
 
 --------------------------------------------
 280 A1src/ Account & AccountTest 
-Simple program for atm machine, deposit and withdraw money from accounts 
+-Simple program for atm machine, deposit and withdraw money from accounts 
 
 
 --------------------------------------------
 guessgame/ 
-GUI game of guessing a random number between 1-1000. 
-When the player presses re-try a different number is generated and they must guess again
+-GUI game of guessing a random number between 1-1000. 
+-When the player presses re-try a different number is generated and they must guess again
 
 --------------------------------------------
 
 que4/ 
-GUI interest calculator 
+-GUI interest calculator 
 
 --------------------------------------------
 que3/
- Drawing a circle, GIVEN a radius
+ -Drawing a circle, GIVEN a radius
   from the user and the coordiantes
   draw them in an Applet
 
 --------------------------------------------
 
 graph/CompleteGraph.java
-Drawing a completed graph with the option of up to 5 vertices
+-Drawing a completed graph with the option of up to 5 vertices
 
 --------------------------------------------
 que2/Circ1.java
-Draw an oval with a randomly genereated radius & show the fowlling:
+-Draw an oval with a randomly genereated radius & show the fowlling:
 radius, diameter, circumference and area
 
 --------------------------------------------
