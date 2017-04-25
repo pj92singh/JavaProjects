@@ -14,8 +14,9 @@ Then the Inventory is self explanatory
 
 --------------------------------------------
 Calc
-Runnable JAR calculator
-Also has the code upladed with it and a screenshot 
+-Runnable JAR calculator
+-Also has the code upladed with it and a screenshot 
+- (May have some bugs )
 
 
 --------------------------------------------
