@@ -18,6 +18,10 @@ Calc
 -Also has the code upladed with it and a screenshot 
 - (May have some bugs )
 
+--------------------------------------------
+Calcfx
+-Runnable JAR for Javafx Calculator 
+-Screenshot of the Calculator application 
 
 --------------------------------------------
 280 A1src/ Account & AccountTest 
