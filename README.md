@@ -1,11 +1,11 @@
 # JavaProjects-
 
-Super class examples
-Class hierarchy etc.
-
-
-This is a Checkout system the main super class is the Menu class. 
-The "stuff" class is what the program does to "scan" in the  customers items. 
+POS checkout system
+(Using the files Menu.java, Inventory.java and Stuff.java) 
+ Insturction to run;
+ 1) Download all 3 classess
+2) Run the main Menu class, it asks for a name (as the cashier) This is a Checkout system the main super class.
+3) It is linked to Inventory class and Stuff class which lets the user "scan" in the customers items. (A list of the items' code and price are displayed when running the program)
 Then the Inventory is self explanatory 
 
 
