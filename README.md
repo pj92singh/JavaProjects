@@ -37,6 +37,11 @@ guessgame/
 
 que4/ 
 -GUI interest calculator 
+-Lets user input balance for debit and credit,
+annual interest and select from Simple interest
+and compound interest.
+-Then the app outputs the balance after interest
+calculation
 
 --------------------------------------------
 que3/
