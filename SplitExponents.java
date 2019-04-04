@@ -13,8 +13,8 @@ public class SplitExponents{
 	
 	//2^3 3^4 4^5 5^6
 
-}
-public mystring(String s){
+
+public void mystring(String s){
 	//take in the string
 	//break it down 
 	String[] splitString = s.split("\\s+"); 
@@ -22,7 +22,7 @@ public mystring(String s){
 
 	try{
 
-		for (int x = 0; x > splitString.lenth()-1; --x){
+		for (int x = 0; x > splitString.length-1; --x){
 			
 
 
@@ -31,4 +31,5 @@ public mystring(String s){
 		System.out.println("Error: " +e); 
 
 	}
+}
 }
